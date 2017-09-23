@@ -1,6 +1,17 @@
 # ShushMe
 Google Places API demo app
 
+#Identitas
+
+Nama : Nur Widya Astutik
+
+
+Kelas : XII RPL 6
+
+
+No. Absen : 26
+
+
 ## Screenshots
 
 ![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
